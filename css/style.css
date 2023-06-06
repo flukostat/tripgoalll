@@ -166,7 +166,7 @@ body {
 }
 
 .enjoy__img--big {
-  background-image: url(../img/enjoy/big.jpg);
+  background-image: url(../img/big.jpg);
   background-repeat: no-repeat;
   background-size: 150%;
   background-position: top;
@@ -180,7 +180,7 @@ body {
   min-height: 480px;
   top: 30%;
   right: 0;
-  background-image: url(../img/enjoy/small.jpg);
+  background-image: url(../img/small.jpg);
   background-repeat: no-repeat;
   background-size: 150%;
   background-position: bottom;
@@ -514,7 +514,7 @@ body {
     margin-top: 30px;
   }
   .enjoy__img--big {
-    background-image: url(../img/enjoy/big.jpg);
+    background-image: url(../img/big.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -526,7 +526,7 @@ body {
     position: static;
     max-height: 550px;
     width: 400px;
-    background-image: url(../img/enjoy/small.jpg);
+    background-image: url(../img/small.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
